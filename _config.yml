@@ -6,9 +6,9 @@ color:
   saturation: 0.18257568590342999
   rhythmicContrast: 0.852560700615868
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#EFF0EA'
+    - '#000000'
+    - '#BACC20'
+    - '#1D1E1D'
+    - '#CFCFCF'
 name: The Fizzog
