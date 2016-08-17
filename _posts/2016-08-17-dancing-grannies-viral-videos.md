@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T23:37:05.067Z'
+datePublished: '2016-08-17T23:38:49.407Z'
 sourcePath: _posts/2016-08-17-dancing-grannies-viral-videos.md
 isBasedOnUrl: 'http://thedancinggrannies.co.uk/dancing-grannies-viral-videos/'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-17T23:37:04.110Z'
+dateModified: '2016-08-17T23:38:49.325Z'
 title: ''
 app_links: []
 publisher: {}
