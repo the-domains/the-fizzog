@@ -1,4 +1,3 @@
-layout_spectrum: 0.6383120112586766
 typography_spectrum: 0.8855490137357265
 color:
   brandStrength: 0.5307428648229688
@@ -11,4 +10,6 @@ color:
     - '#BACC20'
     - '#1D1E1D'
     - '#CFCFCF'
+layout_spectrum: 0.6383120112586766
 name: The Fizzog
+description: ' Award Winning'
