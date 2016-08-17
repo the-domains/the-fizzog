@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FIZZOG]]></title>
+        <description><![CDATA[FIZZOG]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 23:09:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Suck it and See]]></title>
+            <description><![CDATA[<article><h1>Suck it and See</h1><p>Fizzog are back with a brand new comedy sketch show, with all new material from our favourite characters... Mags and Barb, Wayne Kerr, The Kids, Mr & Mrs Cadabra and of course, the world famous Dancing Grannies. Forget the doom and gloom and join Fizzog for a night of hilarity and mayhem...</p><img src="http://www.thefizzogs.com/wp-content/uploads/2016/08/Suck-it-and-See-Poster-2016.jpg"></article>]]></description>
+            <link>http://www.thefizzogs.com/shows-and-appearances/suck-it-and-see/</link>
+            <guid isPermaLink="false">bd4947aa-c397-42d5-829b-f54eabb6d340</guid>
+            <pubDate>Wed, 17 Aug 2016 23:08:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
