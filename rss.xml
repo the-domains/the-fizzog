@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[FIZZOG]]></title>
         <description><![CDATA[FIZZOG]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-fizzog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 23:09:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 23:10:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-fizzog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[May Contain Nuts | Fizzog Productions]]></title>
+            <description><![CDATA[<article><h1>May Contain Nuts | Fizzog Productions</h1><p>After the success of their first trip to the Fringe in 2015 Fizzog are back with their much loved characters, The Dancing Grannies, The Kids and his time they're taking Wayne Kerr and Mags n Barb with them too! Come along and witness a hilarious sketch with song, dance and a whole lot of fun!</p><img src="http://www.thefizzogs.com/wp-content/uploads/2015/04/May-Contain-Nuts-2016.jpg"></article>]]></description>
+            <link>http://www.thefizzogs.com/shows-and-appearances/may-contain-nuts/</link>
+            <guid isPermaLink="false">84328891-f7a8-4386-b7a7-7482db548ed8</guid>
+            <pubDate>Wed, 17 Aug 2016 23:10:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Suck it and See]]></title>
-            <description><![CDATA[<article><h1>Suck it and See</h1><p>Fizzog are back with a brand new comedy sketch show, with all new material from our favourite characters... Mags and Barb, Wayne Kerr, The Kids, Mr & Mrs Cadabra and of course, the world famous Dancing Grannies. Forget the doom and gloom and join Fizzog for a night of hilarity and mayhem...</p><img src="http://www.thefizzogs.com/wp-content/uploads/2016/08/Suck-it-and-See-Poster-2016.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Suck it and See</h1><p>Fizzog are back with a brand new comedy sketch show, with all new material from our favourite characters... Mags and Barb, Wayne Kerr, The Kids, Mr & Mrs Cadabra and of course, the world famous Dancing Grannies. Forget the doom and gloom and join Fizzog for a night of hilarity and mayhem...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80e0549bf2c40cc4bb9431f57df72e2c/croprotate.jpg?cropheight=830&cropwidth=584&degrees=0&input=http%3A%2F%2Fwww.thefizzogs.com%2Fwp-content%2Fuploads%2F2016%2F08%2FSuck-it-and-See-Poster-2016.jpg&x=8&y=10"></article>]]></description>
             <link>http://www.thefizzogs.com/shows-and-appearances/suck-it-and-see/</link>
             <guid isPermaLink="false">bd4947aa-c397-42d5-829b-f54eabb6d340</guid>
             <pubDate>Wed, 17 Aug 2016 23:08:58 GMT</pubDate>
