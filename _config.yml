@@ -1,16 +1,16 @@
-typography_spectrum: 0.8855490137357265
+typography_spectrum: 0.6775796837173402
 color:
-  brandStrength: 0.5307428648229688
-  lightness: 0.32719253888353705
-  saturation: 0.18257568590342999
-  rhythmicContrast: 0.852560700615868
+  brandStrength: 0.5775357682723552
+  lightness: 0.05063828034326434
+  saturation: 0.9936718358658254
+  rhythmicContrast: 0.840802937047556
   brandColors:
-    - '#EFF0EA'
-    - '#000000'
-    - '#BACC20'
-    - '#1D1E1D'
-    - '#CFCFCF'
-layout_spectrum: 0.6383120112586766
+    - '#FFFFFF'
+    - '#282828'
+    - '#293744'
+    - '#263645'
+    - '#263747'
+layout_spectrum: 0.19277735124342144
 name: The Fizzog
 title: FIZZOG
 description: ' Productions'
